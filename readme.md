@@ -10,7 +10,7 @@ The files are in the stl directory, you can download them all as a zip file [her
 
 ## Where to get one
 
-I'm happy to anounce that Rat Rig decided to sell thier V-core with Easy Mod out of the box. Check them out to get your V-core Pro with Easy Mod.
+I'm happy to anounce that Rat Rig decided to sell their V-core with Easy Mod out of the box. Check them out to get your V-core Pro with Easy Mod.
 
 ## Source
 
