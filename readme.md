@@ -23,7 +23,7 @@ You can find the source in [this Onshape document](https://cad.onshape.com/docum
 This is the one I'm currently using, because you need to shorter than the original Z rails (400mm) you need to support them properly so one for each side you'll need:
 
 - 460mm 2020 that goes along the Y axis, under the Y rails
-- around 359mm 2020 for the Z axis support of the Z rail, this does not have to be exact and depends on how much space your motors leave you
+- around 347mm 2020 for the Z axis support of the Z rail, this does not have to be exact and depends on how much space your motors leave you
 
 ### 3 Z rails
 
