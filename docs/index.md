@@ -10,7 +10,7 @@ Up to Easy Mod 2.0.0 there is no additional hardware required to use Easy Mod on
 
 #### 1.1.0 (Obsolete)
 
-Easy Mod 1.0.0 - 1.1.0 is compatible with EVA up to it's version 2.0.0. If you are planning on using EVA 2 on V-core Pro, you need to update to Easy Mod 1.2.0.
+Easy Mod 1.0.0 - 1.1.0 is compatible with EVA up to it's version 2.0.0. If you are planning on using EVA 2 on V-core Pro, you need to update to Easy Mod 1.2.0. Visit [:octicons-mark-github-16: tag: 1.1.0](https://github.com/EVA-3D/Easy-Mod/tree/1.1.0) for the old files.
 
 #### 1.2.0 (Current)
 
