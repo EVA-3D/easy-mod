@@ -1,0 +1,100 @@
+site_name: "Easy Mod"
+site_url: "https://eva-3d.github.io/easy-mod/"
+site_author: "Paweł Kucmus"
+edit_uri: ""
+
+copyright: Copyright &copy; 2020 Paweł Kucmus
+
+repo_name:  EVA-3D / Easy-Mod
+repo_url: https://github.com/EVA-3D/Easy-Mod
+version: 1.2.0
+  
+eva_links:
+  org: https://github.com/EVA-3D
+  spec: https://github.com/EVA-3D/eva-spec
+  main: https://github.com/EVA-3D/eva-main
+  bowden: https://github.com/EVA-3D/eva-bowden
+  bmg: https://github.com/EVA-3D/eva-bmg
+  titan: https://github.com/EVA-3D/eva-titan
+  hemera: https://github.com/EVA-3D/eva-hemera
+  aero: https://github.com/EVA-3D/eva-aero
+  cartesian_idex: https://github.com/EVA-3D/addon-cartesian-idex
+  mgn15: https://github.com/EVA-3D/addon-mgn15
+  endstops: https://github.com/EVA-3D/addon-endstops
+
+onshape:
+  bowden: https://cad.onshape.com/documents/1765b04fac582f6c1c470bd3/w/1cc31596374d6ce51cd23fa9/e/97f38bca98acd8d24f463d78
+  bmg: https://cad.onshape.com/documents/8669b75b86d079defa27c647/w/c7d4d8da0ad3b529c7c85328/e/d9184d31fd3592039cc4b5f8
+  titan: https://cad.onshape.com/documents/bb6db4fbcd7c5ec5350427f0/w/8da16df4512074fe4659384c/e/d0fc464a4453631a662f183c
+  mgn15: https://cad.onshape.com/documents/551442bc5664b4216eddf506/w/16749997681c8bec66757f15/e/ea4ec7fbee5ff4345d4fa96a?configuration=default
+  easy-mod: https://cad.onshape.com/documents/d1cf51356ca66e6a45738c30/v/a26941f52637981e8bc208f2/e/97024015435f2517b65db814
+
+theme:
+  logo: assets/logo_white_outline.svg
+  favicon: assets/logo_white_outline.svg
+  language: en
+  name: material
+  # custom_dir: overrides
+  palette:
+    scheme: slate
+    primary: orange
+    accent: amber
+  features:
+    - navigation.instant
+
+plugins:
+  - search
+  - minify:
+      minify_html: true
+  - awesome-pages
+  - eva-3d-plugin
+  - macros:
+      modules: [eva_3d.bom]
+
+extra_css:
+  - css/extra.css
+
+extra_javascript:
+  - https://cdn.scaleflex.it/plugins/js-cloudimage-360-view/2.4.1/js-cloudimage-360-view.min.js
+  - https://cdnjs.cloudflare.com/ajax/libs/tablesort/5.2.1/tablesort.min.js
+  - js/extra.js
+
+markdown_extensions:
+  - abbr
+  - markdown.extensions.admonition
+  - markdown.extensions.attr_list
+  - markdown.extensions.codehilite:
+      guess_lang: false
+  - markdown.extensions.def_list
+  - markdown.extensions.footnotes
+  - markdown.extensions.meta
+  - markdown.extensions.toc:
+      permalink: true
+  - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  # - pymdownx.highlight:
+  #     linenums_style: pymdownx-inline
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.magiclink:
+      repo_url_shorthand: true
+      user: EVA-3D
+      repo: eva-main 
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.snippets:
+      check_paths: true
+  - pymdownx.superfences
+  - pymdownx.tabbed
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+  - toc:
+      permalink: true
