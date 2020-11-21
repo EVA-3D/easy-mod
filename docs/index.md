@@ -24,4 +24,17 @@ Added compatibility with the new EVA 2 belt mounting system. To upgrade one need
 
 This release is going to be around reducing the weight of the X gantry of V-core Pro by shifting to a MGN12 rail.
 
+## Attributions
+
+Big thanks to [Simon Davie](http://www.nexxdesign.co.uk/) for double checking the measurements and belt paths.
+
+## Issues
+
+In case of issues or ideas please file an issue here: https://github.com/EVA-3D/easy-mod/issues
+
+
+## Contact
+
+If you need a more direct contact I'm on the [Rat Rig Unofficial Discord Server](https://discord.gg/DcCEk8u).
+
 ![](assets/Easy Mod.png)
