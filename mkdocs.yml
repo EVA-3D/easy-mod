@@ -1,6 +1,7 @@
 site_name: "Easy Mod"
 site_url: "https://eva-3d.github.io/easy-mod/"
 site_author: "Paweł Kucmus"
+site_description: 'Easy Mod is a modification for the Rat Rig V-core Pro printer. Enables V-core Pro to use the EVA platform.'
 edit_uri: ""
 
 copyright: Copyright &copy; 2020 Paweł Kucmus
@@ -34,7 +35,7 @@ theme:
   favicon: assets/logo_white_outline.svg
   language: en
   name: material
-  # custom_dir: overrides
+  custom_dir: overrides
   palette:
     scheme: slate
     primary: orange
