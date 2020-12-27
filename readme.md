@@ -31,4 +31,4 @@ You just need the extra Z motor assembly (motor, plate, screw and coupler). Ther
 
 ## Contact
 
-If you are looking for a direct contact with me the best place to look is [Rat Rig Unoffcial Discord](https://discord.gg/FTd5mXV).
+If you are looking for a direct contact with me the best place to look is [Rat Rig Unoffcial Discord](https://discord.gg/DcCEk8u).
