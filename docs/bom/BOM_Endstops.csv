@@ -1,0 +1,8 @@
+Item,Quantity,Name,Material
+1,1,y_endstop,PETG
+2,1,DIN 912 M5 12 mm,- None -
+3,1,2020 Nut M5,- None -
+4,1,endstop_block,PETG
+5,4,DIN 912 M3 10 mm,- None -
+6,4,"M3  Hex nut ",- None -
+7,1,DIN 912 M3 12 mm,- None -
