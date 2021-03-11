@@ -14,7 +14,7 @@ I'm happy to anounce that Rat Rig decided to sell their V-core with Easy Mod out
 
 ## Source
 
-You can find the source in [this Onshape document](https://cad.onshape.com/documents/d1cf51356ca66e6a45738c30/v/bdf1eba1f7df826475f93437/e/61f36bd0b771bfe27606c238).
+You can find the source in [this Onshape document](https://cad.onshape.com/documents/d1cf51356ca66e6a45738c30/v/f17725bc7d9da347304bc9e4/e/61f36bd0b771bfe27606c238).
 
 ## Variants
 
