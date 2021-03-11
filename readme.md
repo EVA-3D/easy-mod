@@ -1,6 +1,6 @@
 # Rat Rig V-core Pro "Easy Mod"
 
-![base](https://raw.githubusercontent.com/pkucmus/Easy-Mod/master/images/base.png)
+![base](https://github.com/EVA-3D/easy-mod/raw/master/docs/assets/Easy%20Mod.png)
 
 ## What this is
 
