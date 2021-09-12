@@ -1,6 +1,6 @@
 # Endstops
 
-Easy Mod does not come with mechanical switch endstops but I will still share the parts that I use. 
+Easy Mod does not come with mechanical switch endstops but here are some simple solutions that address the problem.
 
 ## Y min/max 
 
@@ -10,10 +10,10 @@ There's a simple part that can act as a mount to the "angled endstops" [AliExpre
 
 ## X endstop block
 
-A simple block that EVA's endstop can bump against. It has holes that can receive a screw to adjust the X min position - this should be redundant on EVA 2. The block is screwed on the XY Joiner.
+Much like on V-Core 3 you can use a simple stop block for an EVA endstop to bump against.
 
-![XS_endstop](assets/X_endstop.png)
+![XS_endstop](assets/x_endstop.png)
 
 ## Combined BOM
 
-{{ bom("bom/BOM_Endstops.csv", 0) }}
+{{ bom_to_md_table("BOM_Endstops.csv", 0) }}

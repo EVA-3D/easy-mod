@@ -1,9 +1,9 @@
 Item No.,Quantity,Name,Material
-1,1,xy_joiner_left,PETG
-2,1,xy_joiner_right,PETG
-3,1,corner_left,PETG
-4,1,corner_right,PETG
-5,4,bed_corner,PETG
+1,1,xy_joiner_left,- None -
+2,1,xy_joiner_right,- None -
+3,1,corner_left,- None -
+4,1,corner_right,- None -
+5,4,bed_corner,- None -
 6,2,xy_joiner_plate,- None -
 7,1,2020 394 mm,- None -
 8,4,v slot slide nut M5,- None -

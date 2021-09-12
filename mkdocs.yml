@@ -42,6 +42,9 @@ theme:
     accent: amber
   features:
     - navigation.instant
+    - navigation.expand
+    - navigation.tracking
+    - navigation.top
 
 plugins:
   - search
@@ -49,8 +52,6 @@ plugins:
       minify_html: true
   - awesome-pages
   - eva-3d-plugin
-  - macros:
-      modules: [eva_3d.bom]
 
 extra_css:
   - css/extra.css

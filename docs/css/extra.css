@@ -41,9 +41,9 @@
     margin: 0 .8rem 0;
 }
 
-.md-content__inner> :last-child {
+/* .md-content__inner> :last-child {
     margin-bottom: -0.8rem;
-}
+} */
 
 .badge {
     line-height: 0.6;
