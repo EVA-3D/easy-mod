@@ -19,7 +19,7 @@ There's room for the pins on backside and about 20mm of adjustability (using wit
 ## BOM
 | No | Qty | Name                                           | Printable |
 | -- | --- | ---------------------------------------------- | --------- |
-| 1  | 1   | Y-Idler X-endstop mount                        | [Yes](stl/y-idler_x-endstop.stl) |
+| 1  | 1   | Y-Idler X-endstop mount                        | [Yes](stl/xy-joiner_x-endstop.stl) |
 | 2  | 1   | [Genmitsu CNC-endstops](https://www.amazon.de/-/en/Genmitsu-Switch-3018-PROVER-3018-MX3-3018-PROVer/dp/B08P1D6WTR)| No        |
 | 3  | 2   | DIN 912 M3 6mm     | No        |
 | 4  | 2   | M3 Nut (place inside idler's designated spots) | No        |
