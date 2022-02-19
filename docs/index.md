@@ -1,8 +1,11 @@
+---
+title: Easy Mod
+---
 # Easy Mod
 
-"Easy Mod" is a modification for the Rat Rig V-core Pro printer. Enables V-core Pro to use the [EVA platform](https://main.eva-3d.page){target=_blank}.
+"Easy Mod" is a modification for the Rat Rig V-core Pro printer developed by [Paweł Kucmus](https://github.com/pkucmus){target=_blank} and the Rat Rig community. Enables V-core Pro to use the [EVA platform](https://main.eva-3d.page){target=_blank}.
 
-Up to Easy Mod 1.2.1 there is no additional hardware required to use Easy Mod on V-core Pro. Scroll down for more information about the specific versions and what's planned for the future.
+Up to Easy Mod 1.2.1 there is no additional hardware required to use Easy Mod on V-core Pro but 1.2.1 is only compatible with [EVA](https://main.eva-3d.page/){target="_blank"} to to it's 2.3.0 version. Scroll down for more information about the specific versions and what's planned for the future.
 
 ![](assets/EasyMod_isolated.png)
 
@@ -31,7 +34,10 @@ You can print the parts with 0.2mm or even 0.3mm layer height. Use 4 perimeters 
 
 ## Attributions
 
-Big thanks to [Simon Davie](http://www.nexxdesign.co.uk/) for double checking the measurements and belt paths.
+Big thanks to:
+
+- **[Simon Davie](http://www.nexxdesign.co.uk/)** for double checking the measurements and belt paths 
+- **top_gun_de** for fixing the belt path in 2.0.1.
 
 ## Issues
 

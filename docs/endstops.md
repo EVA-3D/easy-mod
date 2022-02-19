@@ -1,3 +1,6 @@
+---
+title: Endstops
+---
 # Endstops
 
 Easy Mod does not come with mechanical switch endstops but here are some simple solutions that address the problem.
@@ -16,4 +19,4 @@ Much like on V-Core 3 you can use a simple stop block for an EVA endstop to bump
 
 ## Combined BOM
 
-{{ bom_to_md_table("BOM_Endstops.csv", 0) }}
+{{ get_bom("endstops") | md_table }}
